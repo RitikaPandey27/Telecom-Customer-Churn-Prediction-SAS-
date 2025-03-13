@@ -43,5 +43,5 @@ This project provides telecom companies with a data-driven approach to reducing 
 - **Ritika Devendra Pandey**: Responsible for all coding and implementation of the predictive models, data preprocessing, and analysis.
 - **Sumbul Khan**
 
-- 
+
 For any questions or suggestions, please open an issue or contact the contributors directly.
